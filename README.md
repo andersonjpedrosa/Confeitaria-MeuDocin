@@ -271,6 +271,8 @@ O notebook lê o CSV, calcula os indicadores por mês, gera gráficos (faturamen
 2. Abra o notebook: `jupyter notebook`
 3. Execute as células em ordem (*Kernel → Restart & Run All*)
 
+---
+
 ## 👤 Autor
 
 Feito por **Anderson** · [LinkedIn](https://www.linkedin.com/in/andersonjpedrosa)

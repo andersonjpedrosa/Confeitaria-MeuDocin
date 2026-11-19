@@ -258,6 +258,19 @@ Etapas aplicadas no Power Query:
 
 ---
 
+## 🐍 Versão em Python
+
+Os mesmos dados do dashboard, analisados com **Python (pandas e matplotlib)**.
+
+📓 [`analise_vendas_meu_docin.ipynb`](analise_vendas_meu_docin.ipynb)
+
+O notebook lê o CSV, calcula os indicadores por mês, gera gráficos (faturamento por dia da semana, top 5 produtos, categorias e canais) e confere os resultados com os números do Power BI.
+
+**Como executar**
+1. Instale as bibliotecas: `pip install -r requirements.txt`
+2. Abra o notebook: `jupyter notebook`
+3. Execute as células em ordem (*Kernel → Restart & Run All*)
+
 ## 👤 Autor
 
 Feito por **Anderson** · [LinkedIn](https://www.linkedin.com/in/andersonjpedrosa)

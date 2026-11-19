@@ -241,6 +241,8 @@ Etapas aplicadas no Power Query:
 ├── Dashboard_de_Vendas_Meu_Docin.pbix   # relatório Power BI (2 páginas)
 ├── Dashboard_de_Vendas_Meu_Docin.pdf    # exportação do dashboard
 ├── base_vendas_meu_docin.csv            # base fictícia (opcional, para atualizar os dados)
+├── analise_vendas_meu_docin.ipynb       # python
+├── requirements.txt                     # python
 └── imagens/
     ├── dashboard_resumo.png
     └── dashboard_detalhado.png
